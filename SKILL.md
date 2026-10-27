@@ -1,6 +1,11 @@
 ---
 name: dating-chat-assistant
 description: 聊天辅助与恋爱话术生成工具。通过引导式问答（Q&A）逐步了解聊天对象背景（支持社交软件标签、自我介绍或朋友圈内容概述）、用户的交往目的以及设定的人设性格，为用户提供高情商的回复建议和聊天策略。
+version: "1.0.1"
+display_name: "恋聊 · 恋爱聊天辅助"
+display_name_en: "Lianliao - Dating Chat Assistant"
+description_zh: "聊天辅助与恋爱话术生成工具。通过引导式问答（Q&A）逐步了解聊天对象背景（支持社交软件标签、自我介绍或朋友圈内容概述）、用户的交往目的以及设定的人设性格，为用户提供高情商的回复建议和聊天策略。"
+description_en: "A dating and conversation assistant that uses guided questions to understand your background, the other person's shared information, your relationship goals, and your communication style, then suggests natural replies in three modes."
 ---
 # 恋爱聊天辅助 (Dating Chat Assistant)
 
